@@ -1,0 +1,25 @@
+.postcard {
+  position: relative;
+}
+
+img {
+  width: 900px;
+}
+#letter {
+  display: none;
+  position: relative;
+  margin-top: 10px;
+}
+
+#letter p,h1 {
+  position: absolute;
+  width: 400px;
+  top: 30%;
+  margin-left: 40px;
+}
+
+#letterHead {
+  position: absolute;
+  top: 15%;
+  margin-bottom: 20px;
+}
